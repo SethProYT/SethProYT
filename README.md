@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SethProYT
 - 👀 I’m interested in Scripts
-- 🌱 I’m currently learning Lua Scripting
-- 📫 How to reach me On Discord! Add my account Eternality#6795 if you want to reach me and send bugs!
+- 🌱 I’m currently learning C++
+- 📫 I use gentoo btw and I'm learning Linux also!!!
 
 <!---
 SethProYT/SethProYT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
